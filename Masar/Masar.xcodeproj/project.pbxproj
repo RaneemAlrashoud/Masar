@@ -16,6 +16,11 @@
 		F5E7315A286349FE003F9532 /* MasarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5E73159286349FE003F9532 /* MasarTests.swift */; };
 		F5E73164286349FE003F9532 /* MasarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5E73163286349FE003F9532 /* MasarUITests.swift */; };
 		F5E73166286349FE003F9532 /* MasarUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5E73165286349FE003F9532 /* MasarUITestsLaunchTests.swift */; };
+		F5E7317B286350F6003F9532 /* Model in Resources */ = {isa = PBXBuildFile; fileRef = F5E73176286350F6003F9532 /* Model */; };
+		F5E7317C286350F6003F9532 /* View in Resources */ = {isa = PBXBuildFile; fileRef = F5E73177286350F6003F9532 /* View */; };
+		F5E7317D286350F6003F9532 /* Controller  in Resources */ = {isa = PBXBuildFile; fileRef = F5E73178286350F6003F9532 /* Controller  */; };
+		F5E7317E286350F6003F9532 /* Base.lproj in Resources */ = {isa = PBXBuildFile; fileRef = F5E73179286350F6003F9532 /* Base.lproj */; };
+		F5E7317F286350F6003F9532 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5E7317A286350F6003F9532 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +54,11 @@
 		F5E7315F286349FE003F9532 /* MasarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MasarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5E73163286349FE003F9532 /* MasarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasarUITests.swift; sourceTree = "<group>"; };
 		F5E73165286349FE003F9532 /* MasarUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasarUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F5E73176286350F6003F9532 /* Model */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Model; sourceTree = "<group>"; };
+		F5E73177286350F6003F9532 /* View */ = {isa = PBXFileReference; lastKnownFileType = folder; path = View; sourceTree = "<group>"; };
+		F5E73178286350F6003F9532 /* Controller  */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Controller "; sourceTree = "<group>"; };
+		F5E73179286350F6003F9532 /* Base.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Base.lproj; sourceTree = "<group>"; };
+		F5E7317A286350F6003F9532 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +109,11 @@
 		F5E73141286349FC003F9532 /* Masar */ = {
 			isa = PBXGroup;
 			children = (
+				F5E7317A286350F6003F9532 /* Assets.xcassets */,
+				F5E73179286350F6003F9532 /* Base.lproj */,
+				F5E73178286350F6003F9532 /* Controller  */,
+				F5E73176286350F6003F9532 /* Model */,
+				F5E73177286350F6003F9532 /* View */,
 				F5E73142286349FC003F9532 /* AppDelegate.swift */,
 				F5E73144286349FC003F9532 /* SceneDelegate.swift */,
 				F5E73146286349FC003F9532 /* ViewController.swift */,
@@ -232,8 +247,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				F5E7314F286349FE003F9532 /* LaunchScreen.storyboard in Resources */,
+				F5E7317E286350F6003F9532 /* Base.lproj in Resources */,
 				F5E7314C286349FE003F9532 /* Assets.xcassets in Resources */,
+				F5E7317B286350F6003F9532 /* Model in Resources */,
+				F5E7317C286350F6003F9532 /* View in Resources */,
 				F5E7314A286349FC003F9532 /* Main.storyboard in Resources */,
+				F5E7317F286350F6003F9532 /* Assets.xcassets in Resources */,
+				F5E7317D286350F6003F9532 /* Controller  in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
