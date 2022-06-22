@@ -7,9 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F5E73143286349FC003F9532 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5E73142286349FC003F9532 /* AppDelegate.swift */; };
-		F5E73145286349FC003F9532 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5E73144286349FC003F9532 /* SceneDelegate.swift */; };
-		F5E73147286349FC003F9532 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5E73146286349FC003F9532 /* ViewController.swift */; };
 		F5E7314A286349FC003F9532 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5E73148286349FC003F9532 /* Main.storyboard */; };
 		F5E7314C286349FE003F9532 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5E7314B286349FE003F9532 /* Assets.xcassets */; };
 		F5E7314F286349FE003F9532 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5E7314D286349FE003F9532 /* LaunchScreen.storyboard */; };
@@ -42,9 +39,6 @@
 
 /* Begin PBXFileReference section */
 		F5E7313F286349FC003F9532 /* Masar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Masar.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F5E73142286349FC003F9532 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F5E73144286349FC003F9532 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		F5E73146286349FC003F9532 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F5E73149286349FC003F9532 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F5E7314B286349FE003F9532 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F5E7314E286349FE003F9532 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -114,12 +108,9 @@
 				F5E73178286350F6003F9532 /* Controller  */,
 				F5E73176286350F6003F9532 /* Model */,
 				F5E73177286350F6003F9532 /* View */,
-				F5E73142286349FC003F9532 /* AppDelegate.swift */,
-				F5E73144286349FC003F9532 /* SceneDelegate.swift */,
-				F5E73146286349FC003F9532 /* ViewController.swift */,
-				F5E73148286349FC003F9532 /* Main.storyboard */,
 				F5E7314B286349FE003F9532 /* Assets.xcassets */,
 				F5E7314D286349FE003F9532 /* LaunchScreen.storyboard */,
+				F5E73148286349FC003F9532 /* Main.storyboard */,
 				F5E73150286349FE003F9532 /* Info.plist */,
 			);
 			path = Masar;
@@ -278,9 +269,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F5E73147286349FC003F9532 /* ViewController.swift in Sources */,
-				F5E73143286349FC003F9532 /* AppDelegate.swift in Sources */,
-				F5E73145286349FC003F9532 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -509,7 +497,6 @@
 		F5E7316D286349FE003F9532 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -529,7 +516,6 @@
 		F5E7316E286349FE003F9532 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -549,7 +535,6 @@
 		F5E73170286349FE003F9532 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 4R32MLPWCK;
@@ -567,7 +552,6 @@
 		F5E73171286349FE003F9532 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 4R32MLPWCK;
