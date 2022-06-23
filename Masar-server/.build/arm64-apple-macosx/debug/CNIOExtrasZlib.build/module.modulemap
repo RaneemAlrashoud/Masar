@@ -1,0 +1,4 @@
+module CNIOExtrasZlib {
+    umbrella header "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/CNIOExtrasZlib/include/CNIOExtrasZlib.h"
+    export *
+}

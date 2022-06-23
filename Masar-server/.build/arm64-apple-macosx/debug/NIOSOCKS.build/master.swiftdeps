@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "15fcf74aa6cc03d2bafa768baca10d71f32fc6a9a9b2d4ad62e52141a09b8ff8"
+build_start_time: [1655969716, 339411020]
+build_end_time: [1655969717, 784450054]
+inputs:
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Channel Handlers/SOCKSClientHandler.swift"
+  : [1655969691, 105257272]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Channel Handlers/SOCKSServerHandshakeHandler.swift"
+  : [1655969691, 105335712]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/AuthenticationMethod.swift"
+  : [1655969691, 105443000]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/ClientGreeting.swift"
+  : [1655969691, 105513572]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Errors.swift"
+  : [1655969691, 105574846]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Helpers.swift"
+  : [1655969691, 105631828]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Messages.swift"
+  : [1655969691, 105695724]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SOCKSRequest.swift"
+  : [1655969691, 105762243]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SOCKSResponse.swift"
+  : [1655969691, 105822324]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SelectedAuthenticationMethod.swift"
+  : [1655969691, 105884790]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/State/ClientStateMachine.swift"
+  : [1655969691, 105999231]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/State/ServerStateMachine.swift"
+  : [1655969691, 106060504]

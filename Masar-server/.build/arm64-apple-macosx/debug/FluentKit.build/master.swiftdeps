@@ -1,0 +1,163 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "15fcf74aa6cc03d2bafa768baca10d71f32fc6a9a9b2d4ad62e52141a09b8ff8"
+build_start_time: [1655969724, 678552150]
+build_end_time: [1655969727, 505543947]
+inputs:
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/AsyncMigration.swift"
+  : [1655969688, 954862117]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/AsyncModelMiddleware.swift"
+  : [1655969688, 954945564]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/Children+Concurrency.swift"
+  : [1655969688, 955023765]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/Database+Concurrency.swift"
+  : [1655969688, 955109119]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/EnumBuilder+Concurrency.swift"
+  : [1655969688, 955194950]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/Model+Concurrency.swift"
+  : [1655969688, 955261230]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/ModelResponder+Concurrency.swift"
+  : [1655969688, 955327987]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/OptionalChild+Concurrency.swift"
+  : [1655969688, 955397605]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/OptionalParent+Concurrency.swift"
+  : [1655969688, 955464363]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/Parent+Concurrency.swift"
+  : [1655969688, 955537796]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/QueryBuilder+Concurrency.swift"
+  : [1655969688, 955623626]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/Relation+Concurrency.swift"
+  : [1655969688, 955698013]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/SchemaBuilder+Concurrency.swift"
+  : [1655969688, 955771923]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/Siblings+Concurrency.swift"
+  : [1655969688, 955842494]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Database/Database+Logging.swift"
+  : [1655969688, 955961942]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Database/Database.swift": [1655969688, 956032752]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Database/DatabaseID.swift"
+  : [1655969688, 956098556]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Database/DatabaseInput.swift"
+  : [1655969688, 956168651]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Database/DatabaseOutput+Cascade.swift"
+  : [1655969688, 956247806]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Database/DatabaseOutput+Prefix.swift"
+  : [1655969688, 956327438]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Database/DatabaseOutput.swift"
+  : [1655969688, 956406116]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Database/Databases.swift"
+  : [1655969688, 956483364]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Enum/DatabaseEnum.swift": [1655969688, 956604957]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Enum/EnumBuilder.swift": [1655969688, 956683874]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Enum/EnumMetadata.swift": [1655969688, 956788063]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Enum/EnumProperty.swift": [1655969688, 956883907]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Enum/OptionalEnumProperty.swift"
+  : [1655969688, 956950902]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Exports.swift": [1655969688, 957015752]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/FluentError.swift": [1655969688, 957080364]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Middleware/ModelMiddleware.swift"
+  : [1655969688, 957186222]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Middleware/ModelResponder.swift"
+  : [1655969688, 957257270]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Migration/Migration.swift"
+  : [1655969688, 957381248]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Migration/MigrationLog.swift"
+  : [1655969688, 957462310]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Migration/Migrations.swift"
+  : [1655969688, 957524776]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Migration/Migrator.swift"
+  : [1655969688, 957610130]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Model/AnyModel.swift": [1655969688, 957774400]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Model/EagerLoad.swift": [1655969688, 957866430]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Model/Fields+Codable.swift"
+  : [1655969688, 957956314]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Model/Fields.swift": [1655969688, 958042860]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Model/MirrorBypass.swift"
+  : [1655969688, 958135604]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Model/Model+CRUD.swift": [1655969688, 958239316]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Model/Model.swift": [1655969688, 958312034]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Model/ModelAlias.swift": [1655969688, 958385944]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Model/Schema.swift": [1655969688, 958450794]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Operators/FieldOperators.swift"
+  : [1655969688, 958562374]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Operators/Operators.swift"
+  : [1655969688, 958629846]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Operators/ValueOperators+Array.swift"
+  : [1655969688, 958712100]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Operators/ValueOperators+String.swift"
+  : [1655969688, 958785772]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Operators/ValueOperators.swift"
+  : [1655969688, 958871364]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Children.swift"
+  : [1655969688, 959046840]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/CompositeID.swift"
+  : [1655969688, 959128379]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Field.swift": [1655969688, 959210872]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/FieldKey.swift"
+  : [1655969688, 959278106]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Group.swift": [1655969688, 959350347]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/ID.swift": [1655969688, 959455013]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/OptionalChild.swift"
+  : [1655969688, 959530353]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/OptionalField.swift"
+  : [1655969688, 959598541]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/OptionalParent.swift"
+  : [1655969688, 959688186]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Parent.swift": [1655969688, 959792613]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Property.swift"
+  : [1655969688, 959867954]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Relation.swift"
+  : [1655969688, 959935426]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Siblings.swift"
+  : [1655969688, 960009574]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Timestamp.swift"
+  : [1655969688, 960101127]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/TimestampFormat.swift"
+  : [1655969688, 960173130]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Aggregate.swift"
+  : [1655969688, 960351943]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+EagerLoad.swift"
+  : [1655969688, 960437536]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Filter.swift"
+  : [1655969688, 960519790]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Group.swift"
+  : [1655969688, 960599660]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Join.swift"
+  : [1655969688, 960682392]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Paginate.swift"
+  : [1655969688, 960767030]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Range.swift"
+  : [1655969688, 960841178]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Set.swift"
+  : [1655969688, 960910797]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Sort.swift"
+  : [1655969688, 960988283]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder.swift"
+  : [1655969688, 961091995]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Action.swift"
+  : [1655969688, 961212873]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Aggregate.swift"
+  : [1655969688, 961281538]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Field.swift"
+  : [1655969688, 961351394]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Filter.swift"
+  : [1655969688, 961427211]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Join.swift"
+  : [1655969688, 961486816]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Range.swift"
+  : [1655969688, 961558103]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Sort.swift"
+  : [1655969688, 961626529]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Value.swift"
+  : [1655969688, 961693286]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery.swift"
+  : [1655969688, 961764812]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Query/QueryHistory.swift"
+  : [1655969688, 961833000]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Schema/DatabaseSchema.swift"
+  : [1655969688, 961948394]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Schema/SchemaBuilder.swift"
+  : [1655969688, 962026596]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Utilities/OptionalType.swift"
+  : [1655969688, 962135791]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentKit/Utilities/RandomGeneratable.swift"
+  : [1655969688, 962206602]

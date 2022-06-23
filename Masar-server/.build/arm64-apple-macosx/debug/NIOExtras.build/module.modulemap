@@ -1,0 +1,4 @@
+module NIOExtras {
+    header "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/NIOExtras.build/NIOExtras-Swift.h"
+    requires objc
+}

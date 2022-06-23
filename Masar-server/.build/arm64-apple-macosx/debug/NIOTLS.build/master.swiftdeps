@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "15fcf74aa6cc03d2bafa768baca10d71f32fc6a9a9b2d4ad62e52141a09b8ff8"
+build_start_time: [1655969716, 333757877]
+build_end_time: [1655969717, 744092941]
+inputs:
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift"
+  : [1655969691, 820973634]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio/Sources/NIOTLS/SNIHandler.swift": [1655969691, 821110963]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio/Sources/NIOTLS/TLSEvents.swift": [1655969691, 821192979]

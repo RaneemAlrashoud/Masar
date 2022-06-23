@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/master.swiftdeps"
+  },
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/Sources/App/Controllers/TodoController.swift": {
+    "dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/Controllers/TodoController.d",
+    "object": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/Controllers/TodoController.swift.o",
+    "swiftmodule": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/Controllers/TodoController~partial.swiftmodule",
+    "swift-dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/Controllers/TodoController.swiftdeps"
+  },
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/Sources/App/Migrations/CreateServiceProviders.swift": {
+    "dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/Migrations/CreateServiceProviders.d",
+    "object": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/Migrations/CreateServiceProviders.swift.o",
+    "swiftmodule": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/Migrations/CreateServiceProviders~partial.swiftmodule",
+    "swift-dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/Migrations/CreateServiceProviders.swiftdeps"
+  },
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/Sources/App/Models/ServerProvider.swift": {
+    "dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/Models/ServerProvider.d",
+    "object": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/Models/ServerProvider.swift.o",
+    "swiftmodule": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/Models/ServerProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/Models/ServerProvider.swiftdeps"
+  },
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/Sources/App/Models/Todo.swift": {
+    "dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/Models/Todo.d",
+    "object": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/Models/Todo.swift.o",
+    "swiftmodule": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/Models/Todo~partial.swiftmodule",
+    "swift-dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/Models/Todo.swiftdeps"
+  },
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/Sources/App/configure.swift": {
+    "dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/configure.d",
+    "object": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/configure.swift.o",
+    "swiftmodule": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/configure~partial.swiftmodule",
+    "swift-dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/configure.swiftdeps"
+  },
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/Sources/App/routes.swift": {
+    "dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/routes.d",
+    "object": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/routes.swift.o",
+    "swiftmodule": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/routes~partial.swiftmodule",
+    "swift-dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/App.build/routes.swiftdeps"
+  }
+}

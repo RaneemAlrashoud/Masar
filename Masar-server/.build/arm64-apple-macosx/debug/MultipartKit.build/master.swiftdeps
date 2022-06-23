@@ -1,0 +1,43 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "e2ab69f1adaff3579ba2b6a4878f7599552cbb0622cec7cdc2fca8cd7baaad78"
+build_start_time: [1655969718, 597524166]
+build_end_time: [1655969720, 583137035]
+inputs:
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/multipart-kit/Sources/MultipartKit/BasicCodingKey.swift"
+  : [1655969691, 667958974]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/multipart-kit/Sources/MultipartKit/Deprecated/MultipartError.swift"
+  : [1655969691, 668049812]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/multipart-kit/Sources/MultipartKit/Exports.swift": [1655969691, 668101787]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.Decoder.swift"
+  : [1655969691, 668193817]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.KeyedContainer.swift"
+  : [1655969691, 668257236]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.SingleValueContainer.swift"
+  : [1655969691, 668331146]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.UnkeyedContainer.swift"
+  : [1655969691, 668407201]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.swift"
+  : [1655969691, 668597936]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.Encoder.swift"
+  : [1655969691, 668687343]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.KeyedContainer.swift"
+  : [1655969691, 668746471]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.SingleValueContainer.swift"
+  : [1655969691, 668803691]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.UnkeyedContainer.swift"
+  : [1655969691, 668864488]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.swift"
+  : [1655969691, 668946743]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/Storage.swift"
+  : [1655969691, 669002532]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartFormData.swift"
+  : [1655969691, 669101476]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartParser.swift"
+  : [1655969691, 669213294]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartPart.swift"
+  : [1655969691, 669291973]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartPartConvertible.swift"
+  : [1655969691, 669358253]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartSerializer.swift"
+  : [1655969691, 669430255]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/multipart-kit/Sources/MultipartKit/Utilities.swift": [1655969691, 669502258]

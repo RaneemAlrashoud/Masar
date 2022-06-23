@@ -1,0 +1,29 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "DequeModule",
+      "printedName": "DequeModule",
+      "declKind": "Import",
+      "moduleName": "Collections",
+      "declAttributes": [
+        "Exported",
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "OrderedCollections",
+      "printedName": "OrderedCollections",
+      "declKind": "Import",
+      "moduleName": "Collections",
+      "declAttributes": [
+        "Exported"
+      ]
+    }
+  ],
+  "json_format_version": 6
+}

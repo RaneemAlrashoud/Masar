@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "ccb944e6591660fb33f1c68c633a06911f3f25a771fb83c369e694ca8d767828"
+build_start_time: [1655969702, 171013832]
+build_end_time: [1655969702, 549558162]
+inputs:
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-numerics/Sources/RealModule/AlgebraicField.swift"
+  : [1655969690, 671515226]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-numerics/Sources/RealModule/ApproximateEquality.swift"
+  : [1655969690, 671593189]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-numerics/Sources/RealModule/AugmentedArithmetic.swift"
+  : [1655969690, 671664714]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-numerics/Sources/RealModule/Double+Real.swift": [1655969690, 671821355]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-numerics/Sources/RealModule/ElementaryFunctions.swift"
+  : [1655969690, 671899795]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-numerics/Sources/RealModule/Float+Real.swift": [1655969690, 671969175]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-numerics/Sources/RealModule/Float16+Real.swift": [1655969690, 672043561]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-numerics/Sources/RealModule/Float80+Real.swift": [1655969690, 672147274]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-numerics/Sources/RealModule/Real.swift": [1655969690, 672353029]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-numerics/Sources/RealModule/RealFunctions.swift"
+  : [1655969690, 672436714]

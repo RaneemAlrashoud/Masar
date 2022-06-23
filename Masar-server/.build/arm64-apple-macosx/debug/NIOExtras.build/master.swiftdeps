@@ -1,0 +1,33 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "15fcf74aa6cc03d2bafa768baca10d71f32fc6a9a9b2d4ad62e52141a09b8ff8"
+build_start_time: [1655969716, 336496829]
+build_end_time: [1655969718, 473605155]
+inputs:
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/DebugInboundEventsHandler.swift"
+  : [1655969691, 102227210]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/DebugOutboundEventsHandler.swift"
+  : [1655969691, 102295160]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/FixedLengthFrameDecoder.swift"
+  : [1655969691, 102381229]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/JSONRPCFraming+ContentLengthHeader.swift"
+  : [1655969691, 102463722]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/JSONRPCFraming.swift"
+  : [1655969691, 102652072]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/LengthFieldBasedFrameDecoder.swift"
+  : [1655969691, 102702140]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/LengthFieldPrepender.swift"
+  : [1655969691, 103040695]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/LineBasedFrameDecoder.swift"
+  : [1655969691, 103111267]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/NIOExtrasError.swift"
+  : [1655969691, 103220462]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/NIOLengthFieldBitLength.swift"
+  : [1655969691, 103288650]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/PCAPRingBuffer.swift"
+  : [1655969691, 103363037]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/QuiescingHelper.swift"
+  : [1655969691, 103451251]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/RequestResponseHandler.swift"
+  : [1655969691, 103539943]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/WritePCAPHandler.swift"
+  : [1655969691, 103699684]

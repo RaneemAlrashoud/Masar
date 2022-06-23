@@ -1,0 +1,26 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "6692dcf3416080f21d5381df9cf8908e2abf783d8cbe87e9161e04f46f3a3623"
+build_start_time: [1655969726, 7840156]
+build_end_time: [1655969726, 968209981]
+inputs:
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/postgres-kit/Sources/PostgresKit/ConnectionPool+Postgres.swift"
+  : [1655969689, 86774349]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresDataDecoder+JSONDecoder.swift"
+  : [1655969689, 86866855]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/postgres-kit/Sources/PostgresKit/Exports.swift": [1655969689, 86920261]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresClient+SQL.swift"
+  : [1655969689, 86981534]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresColumnType.swift"
+  : [1655969689, 87087154]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresConfiguration.swift"
+  : [1655969689, 87175369]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresConnectionSource.swift"
+  : [1655969689, 87257862]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDataDecoder.swift"
+  : [1655969689, 87327480]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDataEncoder.swift"
+  : [1655969689, 87395191]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDialect.swift"
+  : [1655969689, 87461471]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresRow+SQL.swift"
+  : [1655969689, 87523937]

@@ -14,7 +14,7 @@ public func configure(_ app: Application) throws {
         database: "masar"
     ), as: .psql)
 
-    app.migrations.add(CreateServiceProvider())
+    app.migrations.add(CreateServiceProviders())
 
     // register routes
     try routes(app)

@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "6692dcf3416080f21d5381df9cf8908e2abf783d8cbe87e9161e04f46f3a3623"
+build_start_time: [1655969718, 586381912]
+build_end_time: [1655969719, 613541126]
+inputs:
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPCompression.swift"
+  : [1655969691, 104736089]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPDecompression.swift"
+  : [1655969691, 104826450]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPRequestCompressor.swift"
+  : [1655969691, 104906082]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPRequestDecompressor.swift"
+  : [1655969691, 104976177]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPResponseCompressor.swift"
+  : [1655969691, 105045080]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPResponseDecompressor.swift"
+  : [1655969691, 105112552]

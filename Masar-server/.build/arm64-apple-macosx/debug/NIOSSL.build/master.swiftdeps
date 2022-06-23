@@ -1,0 +1,44 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "6692dcf3416080f21d5381df9cf8908e2abf783d8cbe87e9161e04f46f3a3623"
+build_start_time: [1655969717, 806087970]
+build_end_time: [1655969721, 969701051]
+inputs:
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/ByteBufferBIO.swift": [1655969688, 390461921]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/CustomPrivateKey.swift": [1655969688, 390698432]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/IdentityVerification.swift"
+  : [1655969688, 390957593]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/LinuxCABundle.swift": [1655969688, 391026020]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/NIOSSLClientHandler.swift"
+  : [1655969688, 391241550]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/NIOSSLHandler.swift": [1655969688, 391414642]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/NIOSSLServerHandler.swift"
+  : [1655969688, 391497135]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/ObjectIdentifier.swift": [1655969688, 391577243]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/PosixPort.swift": [1655969688, 391682147]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLCallbacks.swift": [1655969688, 391965389]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLCertificate.swift": [1655969688, 392115116]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLCertificateExtensions.swift"
+  : [1655969688, 392203807]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLConnection.swift": [1655969688, 392493009]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLContext.swift": [1655969688, 392679452]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLErrors.swift": [1655969688, 392775535]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLInit.swift": [1655969688, 393162250]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLPKCS12Bundle.swift": [1655969688, 393247604]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLPrivateKey.swift": [1655969688, 393357753]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLPublicKey.swift": [1655969688, 393478393]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SecurityFrameworkCertificateVerification.swift"
+  : [1655969688, 393807649]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/String+unsafeUninitializedCapacity.swift"
+  : [1655969688, 393898010]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SubjectAlternativeName.swift"
+  : [1655969688, 393978834]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SwiftCrypto/NIOSSLSecureBytes.swift"
+  : [1655969688, 394129753]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SwiftCrypto/RNG.swift": [1655969688, 394192695]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SwiftCrypto/SafeCompare.swift"
+  : [1655969688, 394256591]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SwiftCrypto/Zeroization.swift"
+  : [1655969688, 394316196]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/TLSConfiguration.swift": [1655969688, 394464969]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/UniversalBootstrapSupport.swift"
+  : [1655969688, 394547462]

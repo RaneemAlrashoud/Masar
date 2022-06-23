@@ -1,0 +1,42 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "8f91f5c080ee05dfa082fbbdc06113a444cc9a4781f02ab54a8aa8fd08142ceb"
+build_start_time: [1655969699, 855396032]
+build_end_time: [1655969702, 52361011]
+inputs:
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-collections/Sources/DequeModule/Compatibility.swift"
+  : [1655969689, 460261344]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Codable.swift"
+  : [1655969689, 460352182]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Collection.swift"
+  : [1655969689, 460515975]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+CustomDebugStringConvertible.swift"
+  : [1655969689, 460721969]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+CustomReflectable.swift"
+  : [1655969689, 460784435]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+CustomStringConvertible.swift"
+  : [1655969689, 460853576]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Equatable.swift"
+  : [1655969689, 460937976]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+ExpressibleByArrayLiteral.swift"
+  : [1655969689, 461010217]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Extras.swift"
+  : [1655969689, 461093425]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Hashable.swift"
+  : [1655969689, 461174249]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Testing.swift"
+  : [1655969689, 461260557]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque._Storage.swift"
+  : [1655969689, 461340188]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque._UnsafeHandle.swift"
+  : [1655969689, 461461067]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque.swift": [1655969689, 461544275]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-collections/Sources/DequeModule/UnsafeMutableBufferPointer+Utilities.swift"
+  : [1655969689, 461624622]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-collections/Sources/DequeModule/_DequeBuffer.swift"
+  : [1655969689, 461687564]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-collections/Sources/DequeModule/_DequeBufferHeader.swift"
+  : [1655969689, 461749553]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-collections/Sources/DequeModule/_DequeSlot.swift"
+  : [1655969689, 461812734]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-collections/Sources/DequeModule/_UnsafeWrappedBuffer.swift"
+  : [1655969689, 461896896]

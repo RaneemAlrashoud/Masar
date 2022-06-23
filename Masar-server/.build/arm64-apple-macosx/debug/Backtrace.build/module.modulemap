@@ -1,0 +1,4 @@
+module Backtrace {
+    header "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/Backtrace.build/Backtrace-Swift.h"
+    requires objc
+}

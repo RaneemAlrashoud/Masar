@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "e2ab69f1adaff3579ba2b6a4878f7599552cbb0622cec7cdc2fca8cd7baaad78"
+build_start_time: [1655969718, 580758094]
+build_end_time: [1655969719, 687355041]
+inputs:
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/DynamicHeaderTable.swift"
+  : [1655969690, 60055017]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKDecoder.swift": [1655969690, 60154438]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKEncoder.swift": [1655969690, 60278892]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKErrors.swift": [1655969690, 60359477]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKHeader.swift": [1655969690, 60642242]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HeaderTables.swift": [1655969690, 60756206]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanCoding.swift": [1655969690, 60865402]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanTables.swift": [1655969690, 61315059]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IndexedHeaderTable.swift"
+  : [1655969690, 61472892]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IntegerCoding.swift": [1655969690, 61575651]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/StaticHeaderTable.swift"
+  : [1655969690, 61678409]

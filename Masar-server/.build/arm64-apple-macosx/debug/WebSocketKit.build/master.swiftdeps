@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "b621fd5633046df513e0dd2e79a03211bf5b1c49c470eee462c55a90a663a78e"
+build_start_time: [1655969722, 30150890]
+build_end_time: [1655969722, 845181941]
+inputs:
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/Concurrency/WebSocket+Concurrency.swift"
+  : [1655969691, 223479747]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/Exports.swift": [1655969691, 223536252]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/HTTPInitialRequestHandler.swift"
+  : [1655969691, 223728179]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket+Connect.swift"
+  : [1655969691, 223799467]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket.swift": [1655969691, 223882198]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketClient.swift"
+  : [1655969691, 223969459]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketHandler.swift"
+  : [1655969691, 224030971]

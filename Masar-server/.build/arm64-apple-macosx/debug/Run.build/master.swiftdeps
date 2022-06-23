@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "8bd373478bb482d7af0db9cecea26652014cf536b6bfe11b68cda06a15360fa7"
+build_start_time: [1655970372, 820395946]
+build_end_time: [1655970373, 12624979]
+inputs:
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/Sources/Run/main.swift": [1655969260, 403609275]

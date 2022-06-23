@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "73e76346aae5f2506234ab55445ba25c9dc22213ae9d1042b488e0799becb0ca"
+build_start_time: [1655970372, 272411823]
+build_end_time: [1655970372, 785768985]
+inputs:
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/Sources/App/Controllers/TodoController.swift": [1655969260, 401372909]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/Sources/App/Migrations/CreateServiceProviders.swift": [1655970349, 434470176]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/Sources/App/Models/ServerProvider.swift": [1655970209, 434611797]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/Sources/App/Models/Todo.swift": [1655969260, 402484416]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/Sources/App/configure.swift": [1655970343, 140992164]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/Sources/App/routes.swift": [1655970349, 422507524]

@@ -1,0 +1,96 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "8f91f5c080ee05dfa082fbbdc06113a444cc9a4781f02ab54a8aa8fd08142ceb"
+build_start_time: [1655969702, 734242916]
+build_end_time: [1655969706, 164420127]
+inputs:
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/ActivityBar.swift"
+  : [1655969691, 548785209]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/ActivityIndicator.swift"
+  : [1655969691, 548887729]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/ActivityIndicatorRenderer.swift"
+  : [1655969691, 548952102]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/ActivityIndicatorState.swift"
+  : [1655969691, 549009323]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/CustomActivity.swift"
+  : [1655969691, 549081325]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/LoadingBar.swift"
+  : [1655969691, 549148082]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/ProgressBar.swift"
+  : [1655969691, 549218654]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Clear/Console+Clear.swift"
+  : [1655969691, 549308300]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Clear/Console+Ephemeral.swift"
+  : [1655969691, 549399614]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Clear/ConsoleClear.swift"
+  : [1655969691, 549456596]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/AnyCommand.swift"
+  : [1655969691, 549545288]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Argument.swift"
+  : [1655969691, 549618721]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Async/AnyAsyncCommand.swift"
+  : [1655969691, 549714088]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Async/AsyncCommand.swift"
+  : [1655969691, 549787521]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Async/AsyncCommandGroup.swift"
+  : [1655969691, 549867391]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Async/AsyncCommands.swift"
+  : [1655969691, 549942493]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Command.swift": [1655969691, 550027132]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/CommandContext.swift"
+  : [1655969691, 550115585]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/CommandError.swift"
+  : [1655969691, 550186157]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/CommandGroup.swift"
+  : [1655969691, 550264596]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/CommandInput.swift"
+  : [1655969691, 550333023]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/CommandSignature.swift"
+  : [1655969691, 550509929]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Commands.swift"
+  : [1655969691, 550581455]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Completion.swift"
+  : [1655969691, 550703525]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Console+Run.swift"
+  : [1655969691, 550793647]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Flag.swift": [1655969691, 550869703]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Option.swift": [1655969691, 550936222]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Utilities.swift"
+  : [1655969691, 550997018]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Console.swift": [1655969691, 551058769]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Input/Console+Ask.swift"
+  : [1655969691, 551143407]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Input/Console+Choose.swift"
+  : [1655969691, 551205158]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Input/Console+Confirm.swift"
+  : [1655969691, 551268100]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Input/Console+Input.swift"
+  : [1655969691, 551322460]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/Console+Center.swift"
+  : [1655969691, 551426887]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/Console+Output.swift"
+  : [1655969691, 551485538]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/Console+Wait.swift"
+  : [1655969691, 551541328]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/ConsoleColor.swift"
+  : [1655969691, 551604747]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/ConsoleStyle.swift"
+  : [1655969691, 551669597]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/ConsoleText.swift"
+  : [1655969691, 551743507]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/ConsoleTextFragment.swift"
+  : [1655969691, 551800012]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Terminal/ANSI.swift": [1655969691, 551903009]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Terminal/Terminal.swift"
+  : [1655969691, 551972389]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Terminal/readpassphrase_linux.swift"
+  : [1655969691, 552051067]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Utilities/ConsoleError.swift"
+  : [1655969691, 552142620]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Utilities/ConsoleLogger.swift"
+  : [1655969691, 552227020]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Utilities/GenerateAsyncAutocompleteCommand.swift"
+  : [1655969691, 552293300]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Utilities/GenerateAutocompleteCommand.swift"
+  : [1655969691, 552361011]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/console-kit/Sources/ConsoleKit/Utilities/String+LevenshteinDistance.swift"
+  : [1655969691, 552426338]

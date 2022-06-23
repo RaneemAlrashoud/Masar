@@ -1,0 +1,4 @@
+module NIOFoundationCompat {
+    header "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/NIOFoundationCompat.build/NIOFoundationCompat-Swift.h"
+    requires objc
+}

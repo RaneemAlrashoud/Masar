@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "15fcf74aa6cc03d2bafa768baca10d71f32fc6a9a9b2d4ad62e52141a09b8ff8"
+build_start_time: [1655969727, 591933012]
+build_end_time: [1655969728, 162167072]
+inputs:
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentSQL/DatabaseQuery+SQL.swift": [1655969688, 962327241]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentSQL/DatabaseSchema+SQL.swift"
+  : [1655969688, 962395191]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentSQL/Exports.swift": [1655969688, 962463855]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLDatabase+Model+Concurrency.swift"
+  : [1655969688, 962531566]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLDatabase+Model.swift": [1655969688, 962597608]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLJSONColumnPath.swift": [1655969688, 962664604]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLQualifiedTable.swift": [1655969688, 962724685]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLQueryConverter.swift": [1655969688, 962840080]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLSchemaConverter.swift"
+  : [1655969688, 962950229]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-kit/Sources/FluentSQL/Utilities.swift": [1655969688, 963015556]

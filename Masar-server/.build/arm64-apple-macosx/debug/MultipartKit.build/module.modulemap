@@ -1,0 +1,4 @@
+module MultipartKit {
+    header "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/MultipartKit.build/MultipartKit-Swift.h"
+    requires objc
+}

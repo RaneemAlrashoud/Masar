@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "8f91f5c080ee05dfa082fbbdc06113a444cc9a4781f02ab54a8aa8fd08142ceb"
+build_start_time: [1655969700, 35259008]
+build_end_time: [1655969702, 81602096]
+inputs:
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-metrics/Sources/CoreMetrics/Locks.swift": [1655969689, 596566677]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-metrics/Sources/CoreMetrics/Metrics.swift": [1655969689, 596714973]

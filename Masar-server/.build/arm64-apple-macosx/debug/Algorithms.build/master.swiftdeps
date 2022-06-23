@@ -1,0 +1,38 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "ccb944e6591660fb33f1c68c633a06911f3f25a771fb83c369e694ca8d767828"
+build_start_time: [1655969702, 727867126]
+build_end_time: [1655969706, 316430091]
+inputs:
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/AdjacentPairs.swift"
+  : [1655969689, 308025360]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Chain.swift": [1655969689, 308115959]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Chunked.swift": [1655969689, 308263301]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Combinations.swift"
+  : [1655969689, 308364391]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Compacted.swift": [1655969689, 308438777]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Cycle.swift": [1655969689, 308516025]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/EitherSequence.swift"
+  : [1655969689, 308584690]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/FirstNonNil.swift"
+  : [1655969689, 308648586]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/FlattenCollection.swift"
+  : [1655969689, 308766126]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Indexed.swift": [1655969689, 308840751]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Intersperse.swift"
+  : [1655969689, 308942317]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Joined.swift": [1655969689, 309036254]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/MinMax.swift": [1655969689, 309142589]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Partition.swift": [1655969689, 309250831]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Permutations.swift"
+  : [1655969689, 309362649]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Product.swift": [1655969689, 309475183]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/RandomSample.swift"
+  : [1655969689, 309544563]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Reductions.swift": [1655969689, 309692382]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Rotate.swift": [1655969689, 309783935]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Split.swift": [1655969689, 309891700]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Stride.swift": [1655969689, 309989452]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Suffix.swift": [1655969689, 310050725]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Trim.swift": [1655969689, 310125827]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Unique.swift": [1655969689, 310196399]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Windows.swift": [1655969689, 310283660]

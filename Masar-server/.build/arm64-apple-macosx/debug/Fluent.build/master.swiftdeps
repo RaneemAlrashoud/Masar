@@ -1,0 +1,25 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "73e76346aae5f2506234ab55445ba25c9dc22213ae9d1042b488e0799becb0ca"
+build_start_time: [1655969729, 574500083]
+build_end_time: [1655969729, 968966007]
+inputs:
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent/Sources/Fluent/Concurrency/FluentProvider+Concurrency.swift"
+  : [1655969688, 843196153]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent/Sources/Fluent/Concurrency/Pagination+Concurrency.swift"
+  : [1655969688, 843255519]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent/Sources/Fluent/Concurrency/Sessions+Concurrency.swift"
+  : [1655969688, 843317985]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent/Sources/Fluent/Exports.swift": [1655969688, 843373775]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent/Sources/Fluent/Fluent+Cache.swift": [1655969688, 843441963]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent/Sources/Fluent/Fluent+History.swift": [1655969688, 843512296]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent/Sources/Fluent/Fluent+Paginate.swift": [1655969688, 843571662]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent/Sources/Fluent/Fluent+Pagination.swift": [1655969688, 843644857]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent/Sources/Fluent/Fluent+Sessions.swift": [1655969688, 843713998]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent/Sources/Fluent/FluentProvider.swift": [1655969688, 843781948]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent/Sources/Fluent/MigrateCommand.swift": [1655969688, 843858242]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent/Sources/Fluent/ModelAuthenticatable.swift": [1655969688, 843943119]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent/Sources/Fluent/ModelCredentialsAuthenticatable.swift"
+  : [1655969688, 844017744]
+  ? "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent/Sources/Fluent/ModelTokenAuthenticatable.swift"
+  : [1655969688, 844074249]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent/Sources/Fluent/PageLimit.swift": [1655969688, 844133377]

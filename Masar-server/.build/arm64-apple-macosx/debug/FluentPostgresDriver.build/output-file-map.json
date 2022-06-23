@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/master.swiftdeps"
+  },
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/Exports.swift": {
+    "dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/Exports.d",
+    "object": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/Exports.swift.o",
+    "swiftmodule": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/Exports.swiftdeps"
+  },
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/FluentPostgresConfiguration.swift": {
+    "dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/FluentPostgresConfiguration.d",
+    "object": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/FluentPostgresConfiguration.swift.o",
+    "swiftmodule": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/FluentPostgresConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/FluentPostgresConfiguration.swiftdeps"
+  },
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/FluentPostgresDatabase.swift": {
+    "dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/FluentPostgresDatabase.d",
+    "object": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/FluentPostgresDatabase.swift.o",
+    "swiftmodule": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/FluentPostgresDatabase~partial.swiftmodule",
+    "swift-dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/FluentPostgresDatabase.swiftdeps"
+  },
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/FluentPostgresDriver.swift": {
+    "dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/FluentPostgresDriver.d",
+    "object": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/FluentPostgresDriver.swift.o",
+    "swiftmodule": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/FluentPostgresDriver~partial.swiftmodule",
+    "swift-dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/FluentPostgresDriver.swiftdeps"
+  },
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/PostgresConverterDelegate.swift": {
+    "dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/PostgresConverterDelegate.d",
+    "object": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/PostgresConverterDelegate.swift.o",
+    "swiftmodule": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/PostgresConverterDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/PostgresConverterDelegate.swiftdeps"
+  },
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/PostgresError+Database.swift": {
+    "dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/PostgresError+Database.d",
+    "object": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/PostgresError+Database.swift.o",
+    "swiftmodule": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/PostgresError+Database~partial.swiftmodule",
+    "swift-dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/PostgresError+Database.swiftdeps"
+  },
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/PostgresRow+Database.swift": {
+    "dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/PostgresRow+Database.d",
+    "object": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/PostgresRow+Database.swift.o",
+    "swiftmodule": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/PostgresRow+Database~partial.swiftmodule",
+    "swift-dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/PostgresRow+Database.swiftdeps"
+  }
+}

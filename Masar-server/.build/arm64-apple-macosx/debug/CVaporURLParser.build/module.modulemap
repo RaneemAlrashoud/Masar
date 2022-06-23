@@ -1,0 +1,4 @@
+module CVaporURLParser {
+    umbrella "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/vapor/Sources/CVaporURLParser/include"
+    export *
+}

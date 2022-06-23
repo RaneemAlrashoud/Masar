@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/NIO.build/master.swiftdeps"
+  },
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio/Sources/NIO/Exports.swift": {
+    "dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/NIO.build/Exports.d",
+    "object": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/NIO.build/Exports.swift.o",
+    "swiftmodule": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/NIO.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/NIO.build/Exports.swiftdeps"
+  }
+}

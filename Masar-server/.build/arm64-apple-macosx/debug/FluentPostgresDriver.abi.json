@@ -1,0 +1,2676 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "FluentKit",
+      "printedName": "FluentKit",
+      "declKind": "Import",
+      "moduleName": "FluentPostgresDriver",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "PostgresKit",
+      "printedName": "PostgresKit",
+      "declKind": "Import",
+      "moduleName": "FluentPostgresDriver",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Logging",
+      "printedName": "Logging",
+      "declKind": "Import",
+      "moduleName": "FluentPostgresDriver"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "FluentPostgresConfiguration",
+      "printedName": "FluentPostgresConfiguration",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "middleware",
+          "printedName": "middleware",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[FluentKit.AnyModelMiddleware]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "AnyModelMiddleware",
+                  "printedName": "FluentKit.AnyModelMiddleware",
+                  "usr": "s:9FluentKit18AnyModelMiddlewareP"
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20FluentPostgresDriver0aB13ConfigurationV10middlewareSay0A3Kit18AnyModelMiddleware_pGvp",
+          "mangledName": "$s20FluentPostgresDriver0aB13ConfigurationV10middlewareSay0A3Kit18AnyModelMiddleware_pGvp",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[FluentKit.AnyModelMiddleware]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "AnyModelMiddleware",
+                      "printedName": "FluentKit.AnyModelMiddleware",
+                      "usr": "s:9FluentKit18AnyModelMiddlewareP"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver0aB13ConfigurationV10middlewareSay0A3Kit18AnyModelMiddleware_pGvg",
+              "mangledName": "$s20FluentPostgresDriver0aB13ConfigurationV10middlewareSay0A3Kit18AnyModelMiddleware_pGvg",
+              "moduleName": "FluentPostgresDriver",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[FluentKit.AnyModelMiddleware]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "AnyModelMiddleware",
+                      "printedName": "FluentKit.AnyModelMiddleware",
+                      "usr": "s:9FluentKit18AnyModelMiddlewareP"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver0aB13ConfigurationV10middlewareSay0A3Kit18AnyModelMiddleware_pGvs",
+              "mangledName": "$s20FluentPostgresDriver0aB13ConfigurationV10middlewareSay0A3Kit18AnyModelMiddleware_pGvs",
+              "moduleName": "FluentPostgresDriver",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver0aB13ConfigurationV10middlewareSay0A3Kit18AnyModelMiddleware_pGvM",
+              "mangledName": "$s20FluentPostgresDriver0aB13ConfigurationV10middlewareSay0A3Kit18AnyModelMiddleware_pGvM",
+              "moduleName": "FluentPostgresDriver",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "configuration",
+          "printedName": "configuration",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresConfiguration",
+              "printedName": "PostgresKit.PostgresConfiguration",
+              "usr": "s:11PostgresKit0A13ConfigurationV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20FluentPostgresDriver0aB13ConfigurationV13configuration0B3Kit0bD0Vvp",
+          "mangledName": "$s20FluentPostgresDriver0aB13ConfigurationV13configuration0B3Kit0bD0Vvp",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "PostgresConfiguration",
+                  "printedName": "PostgresKit.PostgresConfiguration",
+                  "usr": "s:11PostgresKit0A13ConfigurationV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver0aB13ConfigurationV13configuration0B3Kit0bD0Vvg",
+              "mangledName": "$s20FluentPostgresDriver0aB13ConfigurationV13configuration0B3Kit0bD0Vvg",
+              "moduleName": "FluentPostgresDriver",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "maxConnectionsPerEventLoop",
+          "printedName": "maxConnectionsPerEventLoop",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20FluentPostgresDriver0aB13ConfigurationV26maxConnectionsPerEventLoopSivp",
+          "mangledName": "$s20FluentPostgresDriver0aB13ConfigurationV26maxConnectionsPerEventLoopSivp",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver0aB13ConfigurationV26maxConnectionsPerEventLoopSivg",
+              "mangledName": "$s20FluentPostgresDriver0aB13ConfigurationV26maxConnectionsPerEventLoopSivg",
+              "moduleName": "FluentPostgresDriver",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "connectionPoolTimeout",
+          "printedName": "connectionPoolTimeout",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "TimeAmount",
+              "printedName": "NIOCore.TimeAmount",
+              "usr": "s:7NIOCore10TimeAmountV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20FluentPostgresDriver0aB13ConfigurationV21connectionPoolTimeout7NIOCore10TimeAmountVvp",
+          "mangledName": "$s20FluentPostgresDriver0aB13ConfigurationV21connectionPoolTimeout7NIOCore10TimeAmountVvp",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "HasStorage",
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 3,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "TimeAmount",
+                  "printedName": "NIOCore.TimeAmount",
+                  "usr": "s:7NIOCore10TimeAmountV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver0aB13ConfigurationV21connectionPoolTimeout7NIOCore10TimeAmountVvg",
+              "mangledName": "$s20FluentPostgresDriver0aB13ConfigurationV21connectionPoolTimeout7NIOCore10TimeAmountVvg",
+              "moduleName": "FluentPostgresDriver",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "encoder",
+          "printedName": "encoder",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataEncoder",
+              "printedName": "PostgresKit.PostgresDataEncoder",
+              "usr": "s:11PostgresKit0A11DataEncoderC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20FluentPostgresDriver0aB13ConfigurationV7encoder0B3Kit0B11DataEncoderCvp",
+          "mangledName": "$s20FluentPostgresDriver0aB13ConfigurationV7encoder0B3Kit0B11DataEncoderCvp",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 4,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "PostgresDataEncoder",
+                  "printedName": "PostgresKit.PostgresDataEncoder",
+                  "usr": "s:11PostgresKit0A11DataEncoderC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver0aB13ConfigurationV7encoder0B3Kit0B11DataEncoderCvg",
+              "mangledName": "$s20FluentPostgresDriver0aB13ConfigurationV7encoder0B3Kit0B11DataEncoderCvg",
+              "moduleName": "FluentPostgresDriver",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "decoder",
+          "printedName": "decoder",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataDecoder",
+              "printedName": "PostgresKit.PostgresDataDecoder",
+              "usr": "s:11PostgresKit0A11DataDecoderC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20FluentPostgresDriver0aB13ConfigurationV7decoder0B3Kit0B11DataDecoderCvp",
+          "mangledName": "$s20FluentPostgresDriver0aB13ConfigurationV7decoder0B3Kit0B11DataDecoderCvp",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 5,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "PostgresDataDecoder",
+                  "printedName": "PostgresKit.PostgresDataDecoder",
+                  "usr": "s:11PostgresKit0A11DataDecoderC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver0aB13ConfigurationV7decoder0B3Kit0B11DataDecoderCvg",
+              "mangledName": "$s20FluentPostgresDriver0aB13ConfigurationV7decoder0B3Kit0B11DataDecoderCvg",
+              "moduleName": "FluentPostgresDriver",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "sqlLogLevel",
+          "printedName": "sqlLogLevel",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Level",
+              "printedName": "Logging.Logger.Level",
+              "usr": "s:7Logging6LoggerV5LevelO"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20FluentPostgresDriver0aB13ConfigurationV11sqlLogLevel7Logging6LoggerV0G0Ovp",
+          "mangledName": "$s20FluentPostgresDriver0aB13ConfigurationV11sqlLogLevel7Logging6LoggerV0G0Ovp",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 6,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Level",
+                  "printedName": "Logging.Logger.Level",
+                  "usr": "s:7Logging6LoggerV5LevelO"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver0aB13ConfigurationV11sqlLogLevel7Logging6LoggerV0G0Ovg",
+              "mangledName": "$s20FluentPostgresDriver0aB13ConfigurationV11sqlLogLevel7Logging6LoggerV0G0Ovg",
+              "moduleName": "FluentPostgresDriver",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "makeDriver",
+          "printedName": "makeDriver(for:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "DatabaseDriver",
+              "printedName": "FluentKit.DatabaseDriver",
+              "usr": "s:9FluentKit14DatabaseDriverP"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Databases",
+              "printedName": "FluentKit.Databases",
+              "usr": "s:9FluentKit9DatabasesC"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:20FluentPostgresDriver0aB13ConfigurationV04makeC03for0A3Kit08DatabaseC0_pAF9DatabasesC_tF",
+          "mangledName": "$s20FluentPostgresDriver0aB13ConfigurationV04makeC03for0A3Kit08DatabaseC0_pAF9DatabasesC_tF",
+          "moduleName": "FluentPostgresDriver",
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(middleware:configuration:maxConnectionsPerEventLoop:connectionPoolTimeout:encoder:decoder:sqlLogLevel:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FluentPostgresConfiguration",
+              "printedName": "FluentPostgresDriver.FluentPostgresConfiguration",
+              "usr": "s:20FluentPostgresDriver0aB13ConfigurationV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[FluentKit.AnyModelMiddleware]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "AnyModelMiddleware",
+                  "printedName": "FluentKit.AnyModelMiddleware",
+                  "usr": "s:9FluentKit18AnyModelMiddlewareP"
+                }
+              ],
+              "usr": "s:Sa"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresConfiguration",
+              "printedName": "PostgresKit.PostgresConfiguration",
+              "usr": "s:11PostgresKit0A13ConfigurationV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "TimeAmount",
+              "printedName": "NIOCore.TimeAmount",
+              "usr": "s:7NIOCore10TimeAmountV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataEncoder",
+              "printedName": "PostgresKit.PostgresDataEncoder",
+              "usr": "s:11PostgresKit0A11DataEncoderC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataDecoder",
+              "printedName": "PostgresKit.PostgresDataDecoder",
+              "usr": "s:11PostgresKit0A11DataDecoderC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Level",
+              "printedName": "Logging.Logger.Level",
+              "usr": "s:7Logging6LoggerV5LevelO"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:20FluentPostgresDriver0aB13ConfigurationV10middleware13configuration26maxConnectionsPerEventLoop21connectionPoolTimeout7encoder7decoder11sqlLogLevelACSay0A3Kit18AnyModelMiddleware_pG_0bT00bD0VSi7NIOCore10TimeAmountVAN0B11DataEncoderCAN0B11DataDecoderC7Logging6LoggerV0S0Otcfc",
+          "mangledName": "$s20FluentPostgresDriver0aB13ConfigurationV10middleware13configuration26maxConnectionsPerEventLoop21connectionPoolTimeout7encoder7decoder11sqlLogLevelACSay0A3Kit18AnyModelMiddleware_pG_0bT00bD0VSi7NIOCore10TimeAmountVAN0B11DataEncoderCAN0B11DataDecoderC7Logging6LoggerV0S0Otcfc",
+          "moduleName": "FluentPostgresDriver",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:20FluentPostgresDriver0aB13ConfigurationV",
+      "mangledName": "$s20FluentPostgresDriver0aB13ConfigurationV",
+      "moduleName": "FluentPostgresDriver",
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "DatabaseConfiguration",
+          "printedName": "DatabaseConfiguration",
+          "usr": "s:9FluentKit21DatabaseConfigurationP",
+          "mangledName": "$s9FluentKit21DatabaseConfigurationP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "FluentSQL",
+      "printedName": "FluentSQL",
+      "declKind": "Import",
+      "moduleName": "FluentPostgresDriver"
+    },
+    {
+      "kind": "Import",
+      "name": "Logging",
+      "printedName": "Logging",
+      "declKind": "Import",
+      "moduleName": "FluentPostgresDriver"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "_FluentPostgresDatabase",
+      "printedName": "_FluentPostgresDatabase",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "database",
+          "printedName": "database",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDatabase",
+              "printedName": "PostgresNIO.PostgresDatabase",
+              "usr": "s:11PostgresNIO0A8DatabaseP"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20FluentPostgresDriver01_aB8DatabaseV8database0B3NIO0bD0_pvp",
+          "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV8database0B3NIO0bD0_pvp",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "PostgresDatabase",
+                  "printedName": "PostgresNIO.PostgresDatabase",
+                  "usr": "s:11PostgresNIO0A8DatabaseP"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver01_aB8DatabaseV8database0B3NIO0bD0_pvg",
+              "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV8database0B3NIO0bD0_pvg",
+              "moduleName": "FluentPostgresDriver",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "context",
+          "printedName": "context",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "DatabaseContext",
+              "printedName": "FluentKit.DatabaseContext",
+              "usr": "s:9FluentKit15DatabaseContextV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20FluentPostgresDriver01_aB8DatabaseV7context0A3Kit0D7ContextVvp",
+          "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV7context0A3Kit0D7ContextVvp",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "DatabaseContext",
+                  "printedName": "FluentKit.DatabaseContext",
+                  "usr": "s:9FluentKit15DatabaseContextV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver01_aB8DatabaseV7context0A3Kit0D7ContextVvg",
+              "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV7context0A3Kit0D7ContextVvg",
+              "moduleName": "FluentPostgresDriver",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "encoder",
+          "printedName": "encoder",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataEncoder",
+              "printedName": "PostgresKit.PostgresDataEncoder",
+              "usr": "s:11PostgresKit0A11DataEncoderC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20FluentPostgresDriver01_aB8DatabaseV7encoder0B3Kit0B11DataEncoderCvp",
+          "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV7encoder0B3Kit0B11DataEncoderCvp",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "PostgresDataEncoder",
+                  "printedName": "PostgresKit.PostgresDataEncoder",
+                  "usr": "s:11PostgresKit0A11DataEncoderC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver01_aB8DatabaseV7encoder0B3Kit0B11DataEncoderCvg",
+              "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV7encoder0B3Kit0B11DataEncoderCvg",
+              "moduleName": "FluentPostgresDriver",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "decoder",
+          "printedName": "decoder",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataDecoder",
+              "printedName": "PostgresKit.PostgresDataDecoder",
+              "usr": "s:11PostgresKit0A11DataDecoderC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20FluentPostgresDriver01_aB8DatabaseV7decoder0B3Kit0B11DataDecoderCvp",
+          "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV7decoder0B3Kit0B11DataDecoderCvp",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 3,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "PostgresDataDecoder",
+                  "printedName": "PostgresKit.PostgresDataDecoder",
+                  "usr": "s:11PostgresKit0A11DataDecoderC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver01_aB8DatabaseV7decoder0B3Kit0B11DataDecoderCvg",
+              "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV7decoder0B3Kit0B11DataDecoderCvg",
+              "moduleName": "FluentPostgresDriver",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "inTransaction",
+          "printedName": "inTransaction",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20FluentPostgresDriver01_aB8DatabaseV13inTransactionSbvp",
+          "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV13inTransactionSbvp",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 4,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver01_aB8DatabaseV13inTransactionSbvg",
+              "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV13inTransactionSbvg",
+              "moduleName": "FluentPostgresDriver",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "sqlLogLevel",
+          "printedName": "sqlLogLevel",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Level",
+              "printedName": "Logging.Logger.Level",
+              "usr": "s:7Logging6LoggerV5LevelO"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20FluentPostgresDriver01_aB8DatabaseV11sqlLogLevel7Logging6LoggerV0G0Ovp",
+          "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV11sqlLogLevel7Logging6LoggerV0G0Ovp",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 5,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Level",
+                  "printedName": "Logging.Logger.Level",
+                  "usr": "s:7Logging6LoggerV5LevelO"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver01_aB8DatabaseV11sqlLogLevel7Logging6LoggerV0G0Ovg",
+              "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV11sqlLogLevel7Logging6LoggerV0G0Ovg",
+              "moduleName": "FluentPostgresDriver",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(database:context:encoder:decoder:inTransaction:sqlLogLevel:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "_FluentPostgresDatabase",
+              "printedName": "FluentPostgresDriver._FluentPostgresDatabase",
+              "usr": "s:20FluentPostgresDriver01_aB8DatabaseV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDatabase",
+              "printedName": "PostgresNIO.PostgresDatabase",
+              "usr": "s:11PostgresNIO0A8DatabaseP"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "DatabaseContext",
+              "printedName": "FluentKit.DatabaseContext",
+              "usr": "s:9FluentKit15DatabaseContextV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataEncoder",
+              "printedName": "PostgresKit.PostgresDataEncoder",
+              "usr": "s:11PostgresKit0A11DataEncoderC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataDecoder",
+              "printedName": "PostgresKit.PostgresDataDecoder",
+              "usr": "s:11PostgresKit0A11DataDecoderC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Level",
+              "printedName": "Logging.Logger.Level",
+              "usr": "s:7Logging6LoggerV5LevelO"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:20FluentPostgresDriver01_aB8DatabaseV8database7context7encoder7decoder13inTransaction11sqlLogLevelAC0B3NIO0bD0_p_0A3Kit0D7ContextV0bO00B11DataEncoderCAO0bQ7DecoderCSb7Logging6LoggerV0M0Otcfc",
+          "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV8database7context7encoder7decoder13inTransaction11sqlLogLevelAC0B3NIO0bD0_p_0A3Kit0D7ContextV0bO00B11DataEncoderCAO0bQ7DecoderCSb7Logging6LoggerV0M0Otcfc",
+          "moduleName": "FluentPostgresDriver",
+          "implicit": true,
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Function",
+          "name": "execute",
+          "printedName": "execute(query:onOutput:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "EventLoopFuture",
+              "printedName": "NIOCore.EventLoopFuture<()>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "usr": "s:7NIOCore15EventLoopFutureC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "DatabaseQuery",
+              "printedName": "FluentKit.DatabaseQuery",
+              "usr": "s:9FluentKit13DatabaseQueryV"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FluentKit.DatabaseOutput) -> ()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "DatabaseOutput",
+                  "printedName": "FluentKit.DatabaseOutput",
+                  "usr": "s:9FluentKit14DatabaseOutputP"
+                }
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:20FluentPostgresDriver01_aB8DatabaseV7execute5query8onOutput7NIOCore15EventLoopFutureCyytG0A3Kit0D5QueryV_yAK0dH0_pctF",
+          "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV7execute5query8onOutput7NIOCore15EventLoopFutureCyytG0A3Kit0D5QueryV_yAK0dH0_pctF",
+          "moduleName": "FluentPostgresDriver",
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "execute",
+          "printedName": "execute(schema:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "EventLoopFuture",
+              "printedName": "NIOCore.EventLoopFuture<()>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "usr": "s:7NIOCore15EventLoopFutureC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "DatabaseSchema",
+              "printedName": "FluentKit.DatabaseSchema",
+              "usr": "s:9FluentKit14DatabaseSchemaV"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:20FluentPostgresDriver01_aB8DatabaseV7execute6schema7NIOCore15EventLoopFutureCyytG0A3Kit0D6SchemaV_tF",
+          "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV7execute6schema7NIOCore15EventLoopFutureCyytG0A3Kit0D6SchemaV_tF",
+          "moduleName": "FluentPostgresDriver",
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "execute",
+          "printedName": "execute(enum:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "EventLoopFuture",
+              "printedName": "NIOCore.EventLoopFuture<()>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "usr": "s:7NIOCore15EventLoopFutureC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "DatabaseEnum",
+              "printedName": "FluentKit.DatabaseEnum",
+              "usr": "s:9FluentKit12DatabaseEnumV"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:20FluentPostgresDriver01_aB8DatabaseV7execute4enum7NIOCore15EventLoopFutureCyytG0A3Kit0D4EnumV_tF",
+          "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV7execute4enum7NIOCore15EventLoopFutureCyytG0A3Kit0D4EnumV_tF",
+          "moduleName": "FluentPostgresDriver",
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "transaction",
+          "printedName": "transaction(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "EventLoopFuture",
+              "printedName": "NIOCore.EventLoopFuture<τ_0_0>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "GenericTypeParam",
+                  "printedName": "τ_0_0"
+                }
+              ],
+              "usr": "s:7NIOCore15EventLoopFutureC"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FluentKit.Database) -> NIOCore.EventLoopFuture<τ_0_0>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "EventLoopFuture",
+                  "printedName": "NIOCore.EventLoopFuture<τ_0_0>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "GenericTypeParam",
+                      "printedName": "τ_0_0"
+                    }
+                  ],
+                  "usr": "s:7NIOCore15EventLoopFutureC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Database",
+                  "printedName": "FluentKit.Database",
+                  "usr": "s:9FluentKit8DatabaseP"
+                }
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:20FluentPostgresDriver01_aB8DatabaseV11transactiony7NIOCore15EventLoopFutureCyxGAH0A3Kit0D0_pclF",
+          "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV11transactiony7NIOCore15EventLoopFutureCyxGAH0A3Kit0D0_pclF",
+          "moduleName": "FluentPostgresDriver",
+          "genericSig": "<τ_0_0>",
+          "sugared_genericSig": "<T>",
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "withConnection",
+          "printedName": "withConnection(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "EventLoopFuture",
+              "printedName": "NIOCore.EventLoopFuture<τ_0_0>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "GenericTypeParam",
+                  "printedName": "τ_0_0"
+                }
+              ],
+              "usr": "s:7NIOCore15EventLoopFutureC"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FluentKit.Database) -> NIOCore.EventLoopFuture<τ_0_0>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "EventLoopFuture",
+                  "printedName": "NIOCore.EventLoopFuture<τ_0_0>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "GenericTypeParam",
+                      "printedName": "τ_0_0"
+                    }
+                  ],
+                  "usr": "s:7NIOCore15EventLoopFutureC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Database",
+                  "printedName": "FluentKit.Database",
+                  "usr": "s:9FluentKit8DatabaseP"
+                }
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:20FluentPostgresDriver01_aB8DatabaseV14withConnectiony7NIOCore15EventLoopFutureCyxGAH0A3Kit0D0_pclF",
+          "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV14withConnectiony7NIOCore15EventLoopFutureCyxGAH0A3Kit0D0_pclF",
+          "moduleName": "FluentPostgresDriver",
+          "genericSig": "<τ_0_0>",
+          "sugared_genericSig": "<T>",
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Var",
+          "name": "dialect",
+          "printedName": "dialect",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "SQLDialect",
+              "printedName": "SQLKit.SQLDialect",
+              "usr": "s:6SQLKit10SQLDialectP"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20FluentPostgresDriver01_aB8DatabaseV7dialect6SQLKit10SQLDialect_pvp",
+          "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV7dialect6SQLKit10SQLDialect_pvp",
+          "moduleName": "FluentPostgresDriver",
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "SQLDialect",
+                  "printedName": "SQLKit.SQLDialect",
+                  "usr": "s:6SQLKit10SQLDialectP"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver01_aB8DatabaseV7dialect6SQLKit10SQLDialect_pvg",
+              "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV7dialect6SQLKit10SQLDialect_pvg",
+              "moduleName": "FluentPostgresDriver",
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "execute",
+          "printedName": "execute(sql:_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "EventLoopFuture",
+              "printedName": "NIOCore.EventLoopFuture<()>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "usr": "s:7NIOCore15EventLoopFutureC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "SQLExpression",
+              "printedName": "SQLKit.SQLExpression",
+              "usr": "s:6SQLKit13SQLExpressionP"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(SQLKit.SQLRow) -> ()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "SQLRow",
+                  "printedName": "SQLKit.SQLRow",
+                  "usr": "s:6SQLKit6SQLRowP"
+                }
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:20FluentPostgresDriver01_aB8DatabaseV7execute3sql_7NIOCore15EventLoopFutureCyytG6SQLKit13SQLExpression_p_yAJ6SQLRow_pctF",
+          "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV7execute3sql_7NIOCore15EventLoopFutureCyytG6SQLKit13SQLExpression_p_yAJ6SQLRow_pctF",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "send",
+          "printedName": "send(_:logger:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "EventLoopFuture",
+              "printedName": "NIOCore.EventLoopFuture<()>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "usr": "s:7NIOCore15EventLoopFutureC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresRequest",
+              "printedName": "PostgresNIO.PostgresRequest",
+              "usr": "s:11PostgresNIO0A7RequestP"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Logger",
+              "printedName": "Logging.Logger",
+              "usr": "s:7Logging6LoggerV"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:20FluentPostgresDriver01_aB8DatabaseV4send_6logger7NIOCore15EventLoopFutureCyytG0B3NIO0B7Request_p_7Logging6LoggerVtF",
+          "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV4send_6logger7NIOCore15EventLoopFutureCyytG0B3NIO0B7Request_p_7Logging6LoggerVtF",
+          "moduleName": "FluentPostgresDriver",
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "withConnection",
+          "printedName": "withConnection(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "EventLoopFuture",
+              "printedName": "NIOCore.EventLoopFuture<τ_0_0>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "GenericTypeParam",
+                  "printedName": "τ_0_0"
+                }
+              ],
+              "usr": "s:7NIOCore15EventLoopFutureC"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(PostgresNIO.PostgresConnection) -> NIOCore.EventLoopFuture<τ_0_0>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "EventLoopFuture",
+                  "printedName": "NIOCore.EventLoopFuture<τ_0_0>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "GenericTypeParam",
+                      "printedName": "τ_0_0"
+                    }
+                  ],
+                  "usr": "s:7NIOCore15EventLoopFutureC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "PostgresConnection",
+                  "printedName": "PostgresNIO.PostgresConnection",
+                  "usr": "s:11PostgresNIO0A10ConnectionC"
+                }
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:20FluentPostgresDriver01_aB8DatabaseV14withConnectiony7NIOCore15EventLoopFutureCyxGAH0B3NIO0bF0CclF",
+          "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV14withConnectiony7NIOCore15EventLoopFutureCyxGAH0B3NIO0bF0CclF",
+          "moduleName": "FluentPostgresDriver",
+          "genericSig": "<τ_0_0>",
+          "sugared_genericSig": "<T>",
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:20FluentPostgresDriver01_aB8DatabaseV",
+      "mangledName": "$s20FluentPostgresDriver01_aB8DatabaseV",
+      "moduleName": "FluentPostgresDriver",
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Database",
+          "printedName": "Database",
+          "usr": "s:9FluentKit8DatabaseP",
+          "mangledName": "$s9FluentKit8DatabaseP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "SQLDatabase",
+          "printedName": "SQLDatabase",
+          "usr": "s:6SQLKit11SQLDatabaseP",
+          "mangledName": "$s6SQLKit11SQLDatabaseP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "PostgresDatabase",
+          "printedName": "PostgresDatabase",
+          "usr": "s:11PostgresNIO0A8DatabaseP",
+          "mangledName": "$s11PostgresNIO0A8DatabaseP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Logging",
+      "printedName": "Logging",
+      "declKind": "Import",
+      "moduleName": "FluentPostgresDriver"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "FluentPostgresError",
+      "printedName": "FluentPostgresError",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "invalidURL",
+          "printedName": "invalidURL",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FluentPostgresDriver.FluentPostgresError.Type) -> (Swift.String) -> FluentPostgresDriver.FluentPostgresError",
+              "children": [
+                {
+                  "kind": "TypeFunc",
+                  "name": "Function",
+                  "printedName": "(Swift.String) -> FluentPostgresDriver.FluentPostgresError",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "FluentPostgresError",
+                      "printedName": "FluentPostgresDriver.FluentPostgresError",
+                      "usr": "s:20FluentPostgresDriver0aB5ErrorO"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ]
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FluentPostgresDriver.FluentPostgresError.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "FluentPostgresError",
+                      "printedName": "FluentPostgresDriver.FluentPostgresError",
+                      "usr": "s:20FluentPostgresDriver0aB5ErrorO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:20FluentPostgresDriver0aB5ErrorO10invalidURLyACSScACmF",
+          "mangledName": "$s20FluentPostgresDriver0aB5ErrorO10invalidURLyACSScACmF",
+          "moduleName": "FluentPostgresDriver",
+          "fixedbinaryorder": 0
+        }
+      ],
+      "declKind": "Enum",
+      "usr": "s:20FluentPostgresDriver0aB5ErrorO",
+      "mangledName": "$s20FluentPostgresDriver0aB5ErrorO",
+      "moduleName": "FluentPostgresDriver",
+      "isEnumExhaustive": true,
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Error",
+          "printedName": "Error",
+          "usr": "s:s5ErrorP",
+          "mangledName": "$ss5ErrorP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "_FluentPostgresDriver",
+      "printedName": "_FluentPostgresDriver",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "pool",
+          "printedName": "pool",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "EventLoopGroupConnectionPool",
+              "printedName": "AsyncKit.EventLoopGroupConnectionPool<PostgresKit.PostgresConnectionSource>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "PostgresConnectionSource",
+                  "printedName": "PostgresKit.PostgresConnectionSource",
+                  "usr": "s:11PostgresKit0A16ConnectionSourceV"
+                }
+              ],
+              "usr": "s:8AsyncKit28EventLoopGroupConnectionPoolC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20FluentPostgresDriver01_abC0V4pool8AsyncKit28EventLoopGroupConnectionPoolCy0bF00bJ6SourceVGvp",
+          "mangledName": "$s20FluentPostgresDriver01_abC0V4pool8AsyncKit28EventLoopGroupConnectionPoolCy0bF00bJ6SourceVGvp",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "EventLoopGroupConnectionPool",
+                  "printedName": "AsyncKit.EventLoopGroupConnectionPool<PostgresKit.PostgresConnectionSource>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "PostgresConnectionSource",
+                      "printedName": "PostgresKit.PostgresConnectionSource",
+                      "usr": "s:11PostgresKit0A16ConnectionSourceV"
+                    }
+                  ],
+                  "usr": "s:8AsyncKit28EventLoopGroupConnectionPoolC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver01_abC0V4pool8AsyncKit28EventLoopGroupConnectionPoolCy0bF00bJ6SourceVGvg",
+              "mangledName": "$s20FluentPostgresDriver01_abC0V4pool8AsyncKit28EventLoopGroupConnectionPoolCy0bF00bJ6SourceVGvg",
+              "moduleName": "FluentPostgresDriver",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "encoder",
+          "printedName": "encoder",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataEncoder",
+              "printedName": "PostgresKit.PostgresDataEncoder",
+              "usr": "s:11PostgresKit0A11DataEncoderC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20FluentPostgresDriver01_abC0V7encoder0B3Kit0B11DataEncoderCvp",
+          "mangledName": "$s20FluentPostgresDriver01_abC0V7encoder0B3Kit0B11DataEncoderCvp",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "PostgresDataEncoder",
+                  "printedName": "PostgresKit.PostgresDataEncoder",
+                  "usr": "s:11PostgresKit0A11DataEncoderC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver01_abC0V7encoder0B3Kit0B11DataEncoderCvg",
+              "mangledName": "$s20FluentPostgresDriver01_abC0V7encoder0B3Kit0B11DataEncoderCvg",
+              "moduleName": "FluentPostgresDriver",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "decoder",
+          "printedName": "decoder",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataDecoder",
+              "printedName": "PostgresKit.PostgresDataDecoder",
+              "usr": "s:11PostgresKit0A11DataDecoderC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20FluentPostgresDriver01_abC0V7decoder0B3Kit0B11DataDecoderCvp",
+          "mangledName": "$s20FluentPostgresDriver01_abC0V7decoder0B3Kit0B11DataDecoderCvp",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "PostgresDataDecoder",
+                  "printedName": "PostgresKit.PostgresDataDecoder",
+                  "usr": "s:11PostgresKit0A11DataDecoderC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver01_abC0V7decoder0B3Kit0B11DataDecoderCvg",
+              "mangledName": "$s20FluentPostgresDriver01_abC0V7decoder0B3Kit0B11DataDecoderCvg",
+              "moduleName": "FluentPostgresDriver",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "sqlLogLevel",
+          "printedName": "sqlLogLevel",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Level",
+              "printedName": "Logging.Logger.Level",
+              "usr": "s:7Logging6LoggerV5LevelO"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20FluentPostgresDriver01_abC0V11sqlLogLevel7Logging6LoggerV0F0Ovp",
+          "mangledName": "$s20FluentPostgresDriver01_abC0V11sqlLogLevel7Logging6LoggerV0F0Ovp",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 3,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Level",
+                  "printedName": "Logging.Logger.Level",
+                  "usr": "s:7Logging6LoggerV5LevelO"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver01_abC0V11sqlLogLevel7Logging6LoggerV0F0Ovg",
+              "mangledName": "$s20FluentPostgresDriver01_abC0V11sqlLogLevel7Logging6LoggerV0F0Ovg",
+              "moduleName": "FluentPostgresDriver",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "eventLoopGroup",
+          "printedName": "eventLoopGroup",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "EventLoopGroup",
+              "printedName": "NIOCore.EventLoopGroup",
+              "usr": "s:7NIOCore14EventLoopGroupP"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20FluentPostgresDriver01_abC0V14eventLoopGroup7NIOCore05EventeF0_pvp",
+          "mangledName": "$s20FluentPostgresDriver01_abC0V14eventLoopGroup7NIOCore05EventeF0_pvp",
+          "moduleName": "FluentPostgresDriver",
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "EventLoopGroup",
+                  "printedName": "NIOCore.EventLoopGroup",
+                  "usr": "s:7NIOCore14EventLoopGroupP"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:20FluentPostgresDriver01_abC0V14eventLoopGroup7NIOCore05EventeF0_pvg",
+              "mangledName": "$s20FluentPostgresDriver01_abC0V14eventLoopGroup7NIOCore05EventeF0_pvg",
+              "moduleName": "FluentPostgresDriver",
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "makeDatabase",
+          "printedName": "makeDatabase(with:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Database",
+              "printedName": "FluentKit.Database",
+              "usr": "s:9FluentKit8DatabaseP"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "DatabaseContext",
+              "printedName": "FluentKit.DatabaseContext",
+              "usr": "s:9FluentKit15DatabaseContextV"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:20FluentPostgresDriver01_abC0V12makeDatabase4with0A3Kit0E0_pAF0E7ContextV_tF",
+          "mangledName": "$s20FluentPostgresDriver01_abC0V12makeDatabase4with0A3Kit0E0_pAF0E7ContextV_tF",
+          "moduleName": "FluentPostgresDriver",
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "shutdown",
+          "printedName": "shutdown()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:20FluentPostgresDriver01_abC0V8shutdownyyF",
+          "mangledName": "$s20FluentPostgresDriver01_abC0V8shutdownyyF",
+          "moduleName": "FluentPostgresDriver",
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(pool:encoder:decoder:sqlLogLevel:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "_FluentPostgresDriver",
+              "printedName": "FluentPostgresDriver._FluentPostgresDriver",
+              "usr": "s:20FluentPostgresDriver01_abC0V"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "EventLoopGroupConnectionPool",
+              "printedName": "AsyncKit.EventLoopGroupConnectionPool<PostgresKit.PostgresConnectionSource>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "PostgresConnectionSource",
+                  "printedName": "PostgresKit.PostgresConnectionSource",
+                  "usr": "s:11PostgresKit0A16ConnectionSourceV"
+                }
+              ],
+              "usr": "s:8AsyncKit28EventLoopGroupConnectionPoolC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataEncoder",
+              "printedName": "PostgresKit.PostgresDataEncoder",
+              "usr": "s:11PostgresKit0A11DataEncoderC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataDecoder",
+              "printedName": "PostgresKit.PostgresDataDecoder",
+              "usr": "s:11PostgresKit0A11DataDecoderC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Level",
+              "printedName": "Logging.Logger.Level",
+              "usr": "s:7Logging6LoggerV5LevelO"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:20FluentPostgresDriver01_abC0V4pool7encoder7decoder11sqlLogLevelAC8AsyncKit28EventLoopGroupConnectionPoolCy0bK00bO6SourceVG_AK0B11DataEncoderCAK0bR7DecoderC7Logging6LoggerV0I0Otcfc",
+          "mangledName": "$s20FluentPostgresDriver01_abC0V4pool7encoder7decoder11sqlLogLevelAC8AsyncKit28EventLoopGroupConnectionPoolCy0bK00bO6SourceVG_AK0B11DataEncoderCAK0bR7DecoderC7Logging6LoggerV0I0Otcfc",
+          "moduleName": "FluentPostgresDriver",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:20FluentPostgresDriver01_abC0V",
+      "mangledName": "$s20FluentPostgresDriver01_abC0V",
+      "moduleName": "FluentPostgresDriver",
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "DatabaseDriver",
+          "printedName": "DatabaseDriver",
+          "usr": "s:9FluentKit14DatabaseDriverP",
+          "mangledName": "$s9FluentKit14DatabaseDriverP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "FluentSQL",
+      "printedName": "FluentSQL",
+      "declKind": "Import",
+      "moduleName": "FluentPostgresDriver"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "PostgresConverterDelegate",
+      "printedName": "PostgresConverterDelegate",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "customDataType",
+          "printedName": "customDataType(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "SQLKit.SQLExpression?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "SQLExpression",
+                  "printedName": "SQLKit.SQLExpression",
+                  "usr": "s:6SQLKit13SQLExpressionP"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "DataType",
+              "printedName": "FluentKit.DatabaseSchema.DataType",
+              "usr": "s:9FluentKit14DatabaseSchemaV8DataTypeO"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:20FluentPostgresDriver0B17ConverterDelegateV14customDataTypey6SQLKit13SQLExpression_pSg0A3Kit14DatabaseSchemaV0gH0OF",
+          "mangledName": "$s20FluentPostgresDriver0B17ConverterDelegateV14customDataTypey6SQLKit13SQLExpression_pSg0A3Kit14DatabaseSchemaV0gH0OF",
+          "moduleName": "FluentPostgresDriver",
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "nestedFieldExpression",
+          "printedName": "nestedFieldExpression(_:_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "SQLExpression",
+              "printedName": "SQLKit.SQLExpression",
+              "usr": "s:6SQLKit13SQLExpressionP"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[Swift.String]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:20FluentPostgresDriver0B17ConverterDelegateV21nestedFieldExpressiony6SQLKit13SQLExpression_pSS_SaySSGtF",
+          "mangledName": "$s20FluentPostgresDriver0B17ConverterDelegateV21nestedFieldExpressiony6SQLKit13SQLExpression_pSS_SaySSGtF",
+          "moduleName": "FluentPostgresDriver",
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresConverterDelegate",
+              "printedName": "FluentPostgresDriver.PostgresConverterDelegate",
+              "usr": "s:20FluentPostgresDriver0B17ConverterDelegateV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:20FluentPostgresDriver0B17ConverterDelegateVACycfc",
+          "mangledName": "$s20FluentPostgresDriver0B17ConverterDelegateVACycfc",
+          "moduleName": "FluentPostgresDriver",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:20FluentPostgresDriver0B17ConverterDelegateV",
+      "mangledName": "$s20FluentPostgresDriver0B17ConverterDelegateV",
+      "moduleName": "FluentPostgresDriver",
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "SQLConverterDelegate",
+          "printedName": "SQLConverterDelegate",
+          "usr": "s:9FluentSQL20SQLConverterDelegateP",
+          "mangledName": "$s9FluentSQL20SQLConverterDelegateP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "FluentSQL",
+      "printedName": "FluentSQL",
+      "declKind": "Import",
+      "moduleName": "FluentPostgresDriver"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "DatabaseID",
+      "printedName": "DatabaseID",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "psql",
+          "printedName": "psql",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "DatabaseID",
+              "printedName": "FluentKit.DatabaseID",
+              "usr": "s:9FluentKit10DatabaseIDV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9FluentKit10DatabaseIDV0A14PostgresDriverE4psqlACvpZ",
+          "mangledName": "$s9FluentKit10DatabaseIDV0A14PostgresDriverE4psqlACvpZ",
+          "moduleName": "FluentPostgresDriver",
+          "static": true,
+          "declAttributes": [
+            "AccessControl"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "DatabaseID",
+                  "printedName": "FluentKit.DatabaseID",
+                  "usr": "s:9FluentKit10DatabaseIDV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9FluentKit10DatabaseIDV0A14PostgresDriverE4psqlACvgZ",
+              "mangledName": "$s9FluentKit10DatabaseIDV0A14PostgresDriverE4psqlACvgZ",
+              "moduleName": "FluentPostgresDriver",
+              "static": true,
+              "accessorKind": "get"
+            }
+          ]
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:9FluentKit10DatabaseIDV",
+      "mangledName": "$s9FluentKit10DatabaseIDV",
+      "moduleName": "FluentKit",
+      "isExternal": true,
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Decodable",
+          "printedName": "Decodable",
+          "usr": "s:Se",
+          "mangledName": "$sSe"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Encodable",
+          "printedName": "Encodable",
+          "usr": "s:SE",
+          "mangledName": "$sSE"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "DatabaseConfigurationFactory",
+      "printedName": "DatabaseConfigurationFactory",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "postgres",
+          "printedName": "postgres(url:maxConnectionsPerEventLoop:connectionPoolTimeout:encoder:decoder:sqlLogLevel:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "DatabaseConfigurationFactory",
+              "printedName": "FluentKit.DatabaseConfigurationFactory",
+              "usr": "s:9FluentKit28DatabaseConfigurationFactoryV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "hasDefaultArg": true,
+              "usr": "s:Si"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "TimeAmount",
+              "printedName": "NIOCore.TimeAmount",
+              "hasDefaultArg": true,
+              "usr": "s:7NIOCore10TimeAmountV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataEncoder",
+              "printedName": "PostgresKit.PostgresDataEncoder",
+              "hasDefaultArg": true,
+              "usr": "s:11PostgresKit0A11DataEncoderC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataDecoder",
+              "printedName": "PostgresKit.PostgresDataDecoder",
+              "hasDefaultArg": true,
+              "usr": "s:11PostgresKit0A11DataDecoderC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Level",
+              "printedName": "Logging.Logger.Level",
+              "hasDefaultArg": true,
+              "usr": "s:7Logging6LoggerV5LevelO"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9FluentKit28DatabaseConfigurationFactoryV0A14PostgresDriverE8postgres3url26maxConnectionsPerEventLoop21connectionPoolTimeout7encoder7decoder11sqlLogLevelACSS_Si7NIOCore10TimeAmountV0fB00F11DataEncoderCAO0fZ7DecoderC7Logging6LoggerV0V0OtKFZ",
+          "mangledName": "$s9FluentKit28DatabaseConfigurationFactoryV0A14PostgresDriverE8postgres3url26maxConnectionsPerEventLoop21connectionPoolTimeout7encoder7decoder11sqlLogLevelACSS_Si7NIOCore10TimeAmountV0fB00F11DataEncoderCAO0fZ7DecoderC7Logging6LoggerV0V0OtKFZ",
+          "moduleName": "FluentPostgresDriver",
+          "static": true,
+          "declAttributes": [
+            "AccessControl"
+          ],
+          "throwing": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "postgres",
+          "printedName": "postgres(url:maxConnectionsPerEventLoop:connectionPoolTimeout:encoder:decoder:sqlLogLevel:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "DatabaseConfigurationFactory",
+              "printedName": "FluentKit.DatabaseConfigurationFactory",
+              "usr": "s:9FluentKit28DatabaseConfigurationFactoryV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "URL",
+              "printedName": "Foundation.URL",
+              "usr": "s:10Foundation3URLV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "hasDefaultArg": true,
+              "usr": "s:Si"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "TimeAmount",
+              "printedName": "NIOCore.TimeAmount",
+              "hasDefaultArg": true,
+              "usr": "s:7NIOCore10TimeAmountV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataEncoder",
+              "printedName": "PostgresKit.PostgresDataEncoder",
+              "hasDefaultArg": true,
+              "usr": "s:11PostgresKit0A11DataEncoderC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataDecoder",
+              "printedName": "PostgresKit.PostgresDataDecoder",
+              "hasDefaultArg": true,
+              "usr": "s:11PostgresKit0A11DataDecoderC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Level",
+              "printedName": "Logging.Logger.Level",
+              "hasDefaultArg": true,
+              "usr": "s:7Logging6LoggerV5LevelO"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9FluentKit28DatabaseConfigurationFactoryV0A14PostgresDriverE8postgres3url26maxConnectionsPerEventLoop21connectionPoolTimeout7encoder7decoder11sqlLogLevelAC10Foundation3URLV_Si7NIOCore10TimeAmountV0fB00F11DataEncoderCAR0F11DataDecoderC7Logging6LoggerV0V0OtKFZ",
+          "mangledName": "$s9FluentKit28DatabaseConfigurationFactoryV0A14PostgresDriverE8postgres3url26maxConnectionsPerEventLoop21connectionPoolTimeout7encoder7decoder11sqlLogLevelAC10Foundation3URLV_Si7NIOCore10TimeAmountV0fB00F11DataEncoderCAR0F11DataDecoderC7Logging6LoggerV0V0OtKFZ",
+          "moduleName": "FluentPostgresDriver",
+          "static": true,
+          "declAttributes": [
+            "AccessControl"
+          ],
+          "throwing": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "postgres",
+          "printedName": "postgres(hostname:port:username:password:database:tlsConfiguration:maxConnectionsPerEventLoop:connectionPoolTimeout:encoder:decoder:sqlLogLevel:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "DatabaseConfigurationFactory",
+              "printedName": "FluentKit.DatabaseConfigurationFactory",
+              "usr": "s:9FluentKit28DatabaseConfigurationFactoryV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "hasDefaultArg": true,
+              "usr": "s:Si"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Swift.String?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "hasDefaultArg": true,
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "NIOSSL.TLSConfiguration?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "TLSConfiguration",
+                  "printedName": "NIOSSL.TLSConfiguration",
+                  "usr": "s:6NIOSSL16TLSConfigurationV"
+                }
+              ],
+              "hasDefaultArg": true,
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "hasDefaultArg": true,
+              "usr": "s:Si"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "TimeAmount",
+              "printedName": "NIOCore.TimeAmount",
+              "hasDefaultArg": true,
+              "usr": "s:7NIOCore10TimeAmountV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataEncoder",
+              "printedName": "PostgresKit.PostgresDataEncoder",
+              "hasDefaultArg": true,
+              "usr": "s:11PostgresKit0A11DataEncoderC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataDecoder",
+              "printedName": "PostgresKit.PostgresDataDecoder",
+              "hasDefaultArg": true,
+              "usr": "s:11PostgresKit0A11DataDecoderC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Level",
+              "printedName": "Logging.Logger.Level",
+              "hasDefaultArg": true,
+              "usr": "s:7Logging6LoggerV5LevelO"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9FluentKit28DatabaseConfigurationFactoryV0A14PostgresDriverE8postgres8hostname4port8username8password8database03tlsD026maxConnectionsPerEventLoop21connectionPoolTimeout7encoder7decoder11sqlLogLevelACSS_SiS3SSg6NIOSSL16TLSConfigurationVSgSi7NIOCore10TimeAmountV0fB00F11DataEncoderCAY0F11DataDecoderC7Logging6LoggerV5LevelOtFZ",
+          "mangledName": "$s9FluentKit28DatabaseConfigurationFactoryV0A14PostgresDriverE8postgres8hostname4port8username8password8database03tlsD026maxConnectionsPerEventLoop21connectionPoolTimeout7encoder7decoder11sqlLogLevelACSS_SiS3SSg6NIOSSL16TLSConfigurationVSgSi7NIOCore10TimeAmountV0fB00F11DataEncoderCAY0F11DataDecoderC7Logging6LoggerV5LevelOtFZ",
+          "moduleName": "FluentPostgresDriver",
+          "static": true,
+          "declAttributes": [
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "postgres",
+          "printedName": "postgres(configuration:maxConnectionsPerEventLoop:connectionPoolTimeout:encoder:decoder:sqlLogLevel:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "DatabaseConfigurationFactory",
+              "printedName": "FluentKit.DatabaseConfigurationFactory",
+              "usr": "s:9FluentKit28DatabaseConfigurationFactoryV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresConfiguration",
+              "printedName": "PostgresKit.PostgresConfiguration",
+              "usr": "s:11PostgresKit0A13ConfigurationV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "hasDefaultArg": true,
+              "usr": "s:Si"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "TimeAmount",
+              "printedName": "NIOCore.TimeAmount",
+              "hasDefaultArg": true,
+              "usr": "s:7NIOCore10TimeAmountV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataEncoder",
+              "printedName": "PostgresKit.PostgresDataEncoder",
+              "hasDefaultArg": true,
+              "usr": "s:11PostgresKit0A11DataEncoderC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataDecoder",
+              "printedName": "PostgresKit.PostgresDataDecoder",
+              "hasDefaultArg": true,
+              "usr": "s:11PostgresKit0A11DataDecoderC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Level",
+              "printedName": "Logging.Logger.Level",
+              "hasDefaultArg": true,
+              "usr": "s:7Logging6LoggerV5LevelO"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9FluentKit28DatabaseConfigurationFactoryV0A14PostgresDriverE8postgres13configuration26maxConnectionsPerEventLoop21connectionPoolTimeout7encoder7decoder11sqlLogLevelAC0fB00fD0V_Si7NIOCore10TimeAmountVAL0F11DataEncoderCAL0fZ7DecoderC7Logging6LoggerV0V0OtFZ",
+          "mangledName": "$s9FluentKit28DatabaseConfigurationFactoryV0A14PostgresDriverE8postgres13configuration26maxConnectionsPerEventLoop21connectionPoolTimeout7encoder7decoder11sqlLogLevelAC0fB00fD0V_Si7NIOCore10TimeAmountVAL0F11DataEncoderCAL0fZ7DecoderC7Logging6LoggerV0V0OtFZ",
+          "moduleName": "FluentPostgresDriver",
+          "static": true,
+          "declAttributes": [
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:9FluentKit28DatabaseConfigurationFactoryV",
+      "mangledName": "$s9FluentKit28DatabaseConfigurationFactoryV",
+      "moduleName": "FluentKit",
+      "isExternal": true
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "PostgresError",
+      "printedName": "PostgresError",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "isSyntaxError",
+          "printedName": "isSyntaxError",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11PostgresNIO0A5ErrorO06FluentA6DriverE08isSyntaxC0Sbvp",
+          "mangledName": "$s11PostgresNIO0A5ErrorO06FluentA6DriverE08isSyntaxC0Sbvp",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "AccessControl"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11PostgresNIO0A5ErrorO06FluentA6DriverE08isSyntaxC0Sbvg",
+              "mangledName": "$s11PostgresNIO0A5ErrorO06FluentA6DriverE08isSyntaxC0Sbvg",
+              "moduleName": "FluentPostgresDriver",
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "isConnectionClosed",
+          "printedName": "isConnectionClosed",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11PostgresNIO0A5ErrorO06FluentA6DriverE18isConnectionClosedSbvp",
+          "mangledName": "$s11PostgresNIO0A5ErrorO06FluentA6DriverE18isConnectionClosedSbvp",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "AccessControl"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11PostgresNIO0A5ErrorO06FluentA6DriverE18isConnectionClosedSbvg",
+              "mangledName": "$s11PostgresNIO0A5ErrorO06FluentA6DriverE18isConnectionClosedSbvg",
+              "moduleName": "FluentPostgresDriver",
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "isConstraintFailure",
+          "printedName": "isConstraintFailure",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11PostgresNIO0A5ErrorO06FluentA6DriverE19isConstraintFailureSbvp",
+          "mangledName": "$s11PostgresNIO0A5ErrorO06FluentA6DriverE19isConstraintFailureSbvp",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "AccessControl"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11PostgresNIO0A5ErrorO06FluentA6DriverE19isConstraintFailureSbvg",
+              "mangledName": "$s11PostgresNIO0A5ErrorO06FluentA6DriverE19isConstraintFailureSbvg",
+              "moduleName": "FluentPostgresDriver",
+              "accessorKind": "get"
+            }
+          ]
+        }
+      ],
+      "declKind": "Enum",
+      "usr": "s:11PostgresNIO0A5ErrorO",
+      "mangledName": "$s11PostgresNIO0A5ErrorO",
+      "moduleName": "PostgresNIO",
+      "isExternal": true,
+      "isEnumExhaustive": true,
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Error",
+          "printedName": "Error",
+          "usr": "s:s5ErrorP",
+          "mangledName": "$ss5ErrorP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "LocalizedError",
+          "printedName": "LocalizedError",
+          "usr": "s:10Foundation14LocalizedErrorP",
+          "mangledName": "$s10Foundation14LocalizedErrorP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "DatabaseError",
+          "printedName": "DatabaseError",
+          "usr": "s:9FluentKit13DatabaseErrorP",
+          "mangledName": "$s9FluentKit13DatabaseErrorP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "PostgresRow",
+      "printedName": "PostgresRow",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "databaseOutput",
+          "printedName": "databaseOutput(using:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "DatabaseOutput",
+              "printedName": "FluentKit.DatabaseOutput",
+              "usr": "s:9FluentKit14DatabaseOutputP"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "PostgresDataDecoder",
+              "printedName": "PostgresKit.PostgresDataDecoder",
+              "usr": "s:11PostgresKit0A11DataDecoderC"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:11PostgresNIO0A3RowV06FluentA6DriverE14databaseOutput5using0D3Kit08DatabaseG0_p0aI00A11DataDecoderC_tF",
+          "mangledName": "$s11PostgresNIO0A3RowV06FluentA6DriverE14databaseOutput5using0D3Kit08DatabaseG0_p0aI00A11DataDecoderC_tF",
+          "moduleName": "FluentPostgresDriver",
+          "declAttributes": [
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:11PostgresNIO0A3RowV",
+      "mangledName": "$s11PostgresNIO0A3RowV",
+      "moduleName": "PostgresNIO",
+      "isExternal": true,
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sequence",
+          "printedName": "Sequence",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "Element",
+              "printedName": "Element",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "PostgresCell",
+                  "printedName": "PostgresNIO.PostgresCell",
+                  "usr": "s:11PostgresNIO0A4CellV"
+                }
+              ]
+            },
+            {
+              "kind": "TypeWitness",
+              "name": "Iterator",
+              "printedName": "Iterator",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Iterator",
+                  "printedName": "PostgresNIO.PostgresRow.Iterator",
+                  "usr": "s:11PostgresNIO0A3RowV8IteratorV"
+                }
+              ]
+            }
+          ],
+          "usr": "s:ST",
+          "mangledName": "$sST"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Collection",
+          "printedName": "Collection",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "Element",
+              "printedName": "Element",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "PostgresCell",
+                  "printedName": "PostgresNIO.PostgresCell",
+                  "usr": "s:11PostgresNIO0A4CellV"
+                }
+              ]
+            },
+            {
+              "kind": "TypeWitness",
+              "name": "Index",
+              "printedName": "Index",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Index",
+                  "printedName": "PostgresNIO.PostgresRow.Index",
+                  "usr": "s:11PostgresNIO0A3RowV5IndexV"
+                }
+              ]
+            },
+            {
+              "kind": "TypeWitness",
+              "name": "Iterator",
+              "printedName": "Iterator",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Iterator",
+                  "printedName": "PostgresNIO.PostgresRow.Iterator",
+                  "usr": "s:11PostgresNIO0A3RowV8IteratorV"
+                }
+              ]
+            },
+            {
+              "kind": "TypeWitness",
+              "name": "SubSequence",
+              "printedName": "SubSequence",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Slice",
+                  "printedName": "Swift.Slice<PostgresNIO.PostgresRow>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "PostgresRow",
+                      "printedName": "PostgresNIO.PostgresRow",
+                      "usr": "s:11PostgresNIO0A3RowV"
+                    }
+                  ],
+                  "usr": "s:s5SliceV"
+                }
+              ]
+            },
+            {
+              "kind": "TypeWitness",
+              "name": "Indices",
+              "printedName": "Indices",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "DefaultIndices",
+                  "printedName": "Swift.DefaultIndices<PostgresNIO.PostgresRow>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "PostgresRow",
+                      "printedName": "PostgresNIO.PostgresRow",
+                      "usr": "s:11PostgresNIO0A3RowV"
+                    }
+                  ],
+                  "usr": "s:SI"
+                }
+              ]
+            }
+          ],
+          "usr": "s:Sl",
+          "mangledName": "$sSl"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    }
+  ],
+  "json_format_version": 6
+}

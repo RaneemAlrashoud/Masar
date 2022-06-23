@@ -1,0 +1,4 @@
+module DequeModule {
+    header "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/DequeModule.build/DequeModule-Swift.h"
+    requires objc
+}

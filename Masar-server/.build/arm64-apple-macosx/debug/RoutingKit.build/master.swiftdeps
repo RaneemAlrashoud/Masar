@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "8f91f5c080ee05dfa082fbbdc06113a444cc9a4781f02ab54a8aa8fd08142ceb"
+build_start_time: [1655969702, 615508079]
+build_end_time: [1655969705, 934731960]
+inputs:
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/routing-kit/Sources/RoutingKit/AnyRouter.swift": [1655969689, 813248872]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/routing-kit/Sources/RoutingKit/Parameters.swift": [1655969689, 813312053]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/routing-kit/Sources/RoutingKit/PathComponent.swift": [1655969689, 813373804]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/routing-kit/Sources/RoutingKit/Router.swift": [1655969689, 813579797]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/routing-kit/Sources/RoutingKit/TrieRouter.swift": [1655969689, 813675880]

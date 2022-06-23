@@ -1,0 +1,4 @@
+module CNIODarwin {
+    umbrella header "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio/Sources/CNIODarwin/include/CNIODarwin.h"
+    export *
+}

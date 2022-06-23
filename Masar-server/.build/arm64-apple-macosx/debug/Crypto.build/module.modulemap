@@ -1,0 +1,4 @@
+module Crypto {
+    header "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/Crypto.build/Crypto-Swift.h"
+    requires objc
+}

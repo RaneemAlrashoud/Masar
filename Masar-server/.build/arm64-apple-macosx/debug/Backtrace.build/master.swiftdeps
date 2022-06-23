@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "ccb944e6591660fb33f1c68c633a06911f3f25a771fb83c369e694ca8d767828"
+build_start_time: [1655969712, 416228055]
+build_end_time: [1655969712, 450103044]
+inputs:
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-backtrace/Sources/Backtrace/Backtrace.swift": [1655969691, 324723482]
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-backtrace/Sources/Backtrace/Demangle.swift": [1655969691, 324789047]

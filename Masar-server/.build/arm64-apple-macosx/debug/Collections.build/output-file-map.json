@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/Collections.build/master.swiftdeps"
+  },
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-collections/Sources/Collections/Collections.swift": {
+    "dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/Collections.build/Collections.d",
+    "object": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/Collections.build/Collections.swift.o",
+    "swiftmodule": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/Collections.build/Collections~partial.swiftmodule",
+    "swift-dependencies": "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/arm64-apple-macosx/debug/Collections.build/Collections.swiftdeps"
+  }
+}

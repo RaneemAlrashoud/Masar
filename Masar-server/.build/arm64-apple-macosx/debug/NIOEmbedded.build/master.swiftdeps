@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "16d7dad600fcb7ff2320606f53265fe3d595aa2a55b147bfb23cc3bb0113d567"
+build_start_time: [1655969715, 306998014]
+build_end_time: [1655969715, 644410133]
+inputs:
+  "/Users/rahafnaif/Documents/coding/Swift/Masar/Masar-server/.build/checkouts/swift-nio/Sources/NIOEmbedded/Embedded.swift": [1655969691, 810995340]
