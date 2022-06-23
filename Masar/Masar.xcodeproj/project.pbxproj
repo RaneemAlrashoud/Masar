@@ -77,8 +77,8 @@
 		02BAA83E28643FF800856109 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				F5E7314D286349FE003F9532 /* LaunchScreen.storyboard */,
 				F5E73148286349FC003F9532 /* Main.storyboard */,
+				F5E7314D286349FE003F9532 /* LaunchScreen.storyboard */,
 			);
 			path = View;
 			sourceTree = "<group>";
