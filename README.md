@@ -4,4 +4,4 @@
   <h1> <li> "Masar" objective 💡 </li> </h1>
   
   <p align="center">
-<img src="./dash.svg" alt="" /> </p>
+<img src="./dash2.svg" alt="" /> </p>
